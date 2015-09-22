@@ -15,3 +15,8 @@ which will change the display to say ‘calling ….’ (include the number dial
 
 When the user selects the cancel button, the display should show the total duration
 (from when the call button was selected) of the call on the display area. 
+
+## Screenshots
+
+![ScreenShot](http://i.imgur.com/UOoYFl2.png)
+![ScreenShot](http://i.imgur.com/FtGZoRK.png)
